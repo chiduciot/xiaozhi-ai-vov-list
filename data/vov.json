@@ -52,5 +52,10 @@
       "url": "https://strm.voh.com.vn/radio/channel3/playlist.m3u8",
       "description": "VOH FM 99.9 Không giới hạn"
     }
+     "zing_bolero": {
+      "name": "Zing Bolero",
+      "url": "https://vnno-ne-3-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8",
+      "description": "Zing Bolero"
+    }
   }
 }
